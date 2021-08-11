@@ -1,6 +1,6 @@
 ## Hi there I'm Ali John 👋
-
- *🔭 I’m currently working as Software engineer  
+  
+ *🔭 I'm currently working as Intern Software engineer.  
  *🧮 I'm working as a mathematician at PhotoMath.  
  *🌱 I’m currently learning competitive coding and flutter.  
  *👯 I’m looking to collaborate with other developers.  
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 -->
 ---
 ## ⚙️GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=ali-john&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=ali-john&&show_icons=true&theme=radical">&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-john&theme=gruvbox " width="250" height="200">
+
 
 
