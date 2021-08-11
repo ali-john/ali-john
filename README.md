@@ -1,11 +1,12 @@
 ### Hi there I'm Ali John 👋
 
  *🔭 I’m currently working as Software engineer  
+ *🧮 I'm working as a mathematician at PhotoMath.  
  *🌱 I’m currently learning competitive coding and flutter.  
  *👯 I’m looking to collaborate with other developers.  
- *💬 Ask me about coding and data structures. 
+ *💬 Ask me about coding and data structures.  
  *📣 Love to teach coding and tech stuff.  
- *📫 **Connect with me**  
+🔗 **Connect with me**  
 [Linkedin](https://www.linkedin.com/in/ali-john-naqvi-b736591a4/)  
 [Twitter](https://twitter.com/AliJohnNaqvi1?s=08) 
 
