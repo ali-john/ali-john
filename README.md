@@ -1,10 +1,10 @@
 ## Hi there I'm Ali John 👋
   
- *🔭 I'm currently working as Intern Software engineer.  
- *🧮 I'm working as a mathematician at PhotoMath.  
- *🌱 I’m currently learning competitive coding and flutter.  
+ *🔭 I'm currently looking for role as Software engineer.  
+ *🧮 I'm interested in Computer Vision.  
+ *🌱 I’m currently working on lungs segmentation and diseases detection using machine learning.  
  *👯 I’m looking to collaborate with other developers.  
- *💬 Ask me about coding and data structures.  
+ *💬 Ask me about coding(python, c#, c++), databases, image processing and mathematics.  
  *📣 Love to teach coding and tech stuff.  
    
  ---
