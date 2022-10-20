@@ -1,10 +1,10 @@
 ## Hi there I'm Ali John 👋
   
- *🔭 I'm currently looking for role as Software engineer.  
- *🧮 I'm interested in Computer Vision.  
- *🌱 I’m currently working on lungs segmentation and diseases detection using machine learning.  
+ *🔭 I'm currently looking for opportunity to research on AI.  
+ *🧮 I'm interested in Computer Vision, Data Science, Optimization.  
+ *🌱 I’m currently writing a comprehensive review of vision transformers.  
  *👯 I’m looking to collaborate with other developers.  
- *💬 Ask me about coding(python, c#, c++), databases, image processing and mathematics.  
+ *💬 Ask me about coding(python, c#, c++, Javascript), databases, image processing and mathematics.  
  *📣 Love to teach coding and tech stuff.  
    
  ---
