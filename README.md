@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 ## ⚙️GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=ali-john&&show_icons=true&theme=radical">&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-john&theme=gruvbox " width="250" height="200">
+
 
 
 
