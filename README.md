@@ -2,7 +2,7 @@
   
  *🔭 I'm currently looking for opportunity to research on AI.  
  *🧮 I'm interested in Computer Vision, Data Science, Optimization.  
- *🌱 I’m currently writing a comprehensive review of vision transformers.  
+ *🌱 I’m currently working on multimedia streaming projects in NetMediaSys lab at University of Calgary.  
  *👯 I’m looking to collaborate with other developers.  
  *💬 Ask me about coding(python, c#, c++, Javascript), databases, image processing and mathematics.  
  *📣 Love to teach coding and tech stuff.  
