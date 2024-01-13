@@ -1,6 +1,6 @@
 ## Hi there I'm Ali John 👋
   
- *🔭 I'm currently working in multi-media streaming and AI research at University of Calgary
+ *🔭 I'm currently working in multi-media streaming and AI research at University of Calgary  
  *🧮 My interests: AI, Data Science, Devops  
  *🌱 Always looking to learn more and more!!  
  *👯 I’m looking to collaborate with other developers.  
