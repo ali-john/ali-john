@@ -15,7 +15,7 @@
    <a href="https://www.linkedin.com/in/ali-john-naqvi-b736591a4/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp; 
    <a href="https://twitter.com/AliJohnNaqvi1?s=08" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>&nbsp;
   <a href="https://www.youtube.com/channel/UCXLKxx_4LjNEy4UXn6AEFdw" ><img src="https://img.shields.io/youtube/channel/views/UCXLKxx_4LjNEy4UXn6AEFdw?style=for-the-badge"></a>&nbsp;
-   <a href="https://www.quora.com/profile/Ali-John-Naqvi-1" ><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>  
+   <a href="https://www.linkedin.com/in/ali-john-naqvi-b736591a4/" ><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>  
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=ali-john&style=flat-square">
 
 <!--
