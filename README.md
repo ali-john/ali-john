@@ -2,7 +2,7 @@
   
  * Currently building <i> agentic backend applications <i> at [Cisco](https://www.cisco.com)     
  * Researcher at [UoC](https://www.ucalgary.ca), publishing work in <i>3D Gaussian Splatting, Video Codecs and Vision-Language models<i>
- * Prev MSc Computer Science at the University of Calgary. Research collaboration with [AT&T Research](https://about.att.com/sites/labs). 
+ * Prev MSc Computer Science at the University of Calgary. Research collaboration with [AT&T Research](https://about.att.com/sites/labs)   
  * Always looking to learn more and more!!    
    
  ---
