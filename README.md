@@ -6,17 +6,72 @@
  * Always looking to learn more and more!!    
    
  ---
-     
- ## 🔗Connect with me  
-  
-<a href="mailto:alijohnnaqvi6@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/ali-john-naqvi-b736591a4/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;  
+## 🛠️ Tech Stack
+
+<a href="https://www.python.org/">
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45">
+</a>
+
+<a href="https://isocpp.org/">
+  <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45">
+</a>
+
+<a href="https://www.oracle.com/java/">
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45">
+</a>
+
+<a href="https://pytorch.org/">
+  <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" width="45">
+</a>
+
+<a href="https://www.docker.com/">
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="45">
+</a>
+
+<a href="https://kubernetes.io/">
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="45">
+</a>
+
+<a href="https://www.linux.org/">
+  <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45">
+</a>
+
+<a href="https://huggingface.co/">
+  <img alt="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45">
+</a>
+
+<a href="https://git-scm.com/">
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45">
+</a>
+
+<a href="https://fastapi.tiangolo.com/">
+  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45">
+</a>
+
+<a href="https://react.dev/">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45">
+</a>
+
+<a href="https://spring.io/">
+  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45">
+</a>
+
+
+## 🔗 Connect with me  
+
+<a href="mailto:alijohnnaqvi6@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ali-john-naqvi-b736591a4/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30">
+</a>
+
+--- 
+<!-- ***My working tools...*** -->
 
 <!--
 **ali-john/ali-john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 -->
 
